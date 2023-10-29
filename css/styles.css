@@ -476,6 +476,14 @@ padding-bottom: 120px;}
   fill: #f4f4fd;
 }
 /*=============================*/
+.footer-subscribe{
+    margin-left: auto;
+}
+.footer-text-title{
+    margin-bottom: 16px;
+    color: #ffffff;
+}
+
 .footer-form {
     display:flex;
     gap: 24px;
@@ -500,7 +508,7 @@ padding-bottom: 120px;}
 }
 
 .footer-btn {
-    color: #FFF;
+    color: #ffffff;
     min-width: 165px;
     height: 40px;
     border-radius: 4px;
@@ -509,6 +517,7 @@ padding-bottom: 120px;}
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    margin-bottom: 16px;
     cursor: pointer;
     border: none;
     display: flex;
